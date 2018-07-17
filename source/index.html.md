@@ -23,6 +23,8 @@ search: true
 
 # Introduction
 
+Test of Travis CI ！！！
+
 This is the first modification of "Slate_test" !!!!
 
 Hello World !!!
